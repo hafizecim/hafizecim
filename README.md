@@ -7,6 +7,8 @@
 
 
 <br/>
+
+![snake gif](https://github.com/hafizecim/hafizecim/blob/output/github-contribution-grid-snake.gif)
  
 
 ## 📊 GitHub Stats
