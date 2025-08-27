@@ -1,16 +1,55 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hafizecim.hafizecim" />
 
-<!--
-**hafizecim/hafizecim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Hafize+Şenyıl!;" />
+</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+ 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hafizecim&show_icons=true&theme=radical" />
+  
+  <!-- Top Languages -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizecim&layout=compact&theme=radical" />
+
+</div>
+
+<br/>
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=hafizecim&theme=radical&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🐍 My Contributions Snake
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hafizecim/hafizecim/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/hafizecim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hafize@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
