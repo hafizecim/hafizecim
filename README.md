@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF69B4&lines=Hi+There!;+I'm+Hafize+Şenyıl!;" />
 </h1>
 
-<br/>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hafizecim/hafizecim/output/github-contribution-grid-snake.svg" />
