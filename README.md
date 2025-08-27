@@ -7,8 +7,7 @@
 </h1>
 
 <br/>
-<img src="https://hafizecim.github.io/Palestine-flag/flag.png" alt="Palestine Flag" />
-<br/>
+
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hafizecim/hafizecim/output/github-contribution-grid-snake.svg" />
 </div>
