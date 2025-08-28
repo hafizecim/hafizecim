@@ -57,7 +57,7 @@
 <div align="center">
 
 <a href="https://github-trophies.vercel.app/?username=hafizecim" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=hafizecim&theme=radical&margin-w=4&margin-h=4">
+  <img src="https://github-trophies.vercel.app/?username=hafizecim&theme=radical&margin-w=4&margin-h=4" width="600">
 </a>
 </div>
 
