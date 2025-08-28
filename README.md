@@ -33,6 +33,17 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
     </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<h3 align="center"> 🏆 GitHub Trophies</h3>
+</div>
+<div align="center">
+
+<a href="https://github-trophies.vercel.app/?username=hafizecim" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=hafizecim&theme=radical&margin-w=4&margin-h=4" width="600">
+</a>
+</div>
+
 <img   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -50,16 +61,7 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-<h3 align="center"> 🏆 GitHub Trophies</h3>
-</div>
-<div align="center">
 
-<a href="https://github-trophies.vercel.app/?username=hafizecim" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=hafizecim&theme=radical&margin-w=4&margin-h=4" width="600">
-</a>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
