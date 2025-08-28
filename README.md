@@ -73,7 +73,7 @@
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=hafizecim">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizecim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+          <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizecim&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -82,7 +82,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizecim">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizecim&theme=dracula"/>
+          <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizecim&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -91,7 +91,7 @@
     <tr>
       <td>
         <a href="https://github-readme-activity-graph.vercel.app/graph?username=hafizecim">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=hafizecim&theme=dracula">
+          <img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=hafizecim&theme=dracula">
         </a>
       </td>
     </tr>
@@ -103,12 +103,12 @@
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafizecim">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafizecim&theme=dracula"/>
+          <img heigh= "300" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafizecim&theme=dracula"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizecim&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizecim&theme=dracula"/>
+          <img heigh= "300" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizecim&theme=dracula"/>
         </a>
       </th>
     </tr>
@@ -117,12 +117,12 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafizecim">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafizecim&theme=dracula"/>
+          <img heigh= "300" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafizecim&theme=dracula"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafizecim">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafizecim&theme=dracula"/>
+          <img heigh= "300" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafizecim&theme=dracula"/>
         </a>
       </td>
     </tr>
