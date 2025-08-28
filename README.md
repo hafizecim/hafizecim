@@ -34,9 +34,9 @@
 
 <h3 align="center">My Github Stats:</h3>
 <div align="center">
-<img align="center" height="140" weight="50" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizecim&show_icons=true&locale=en&layout=compact" alt="hafizecim" />
-<img align="center"  height="140" weight="50" src="https://github-readme-stats.vercel.app/api?username=hafizecim&show_icons=true&locale=en" alt="hafizecim" />
-<img align="center"   height="140" weight="50" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizecim&" alt="hafizecim" />
+<img align="center" height="130" weight="40" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizecim&show_icons=true&locale=en&layout=compact" alt="hafizecim" />
+<img align="center" height="130" weight="40" src="https://github-readme-stats.vercel.app/api?username=hafizecim&show_icons=true&locale=en" alt="hafizecim" />
+<img align="center" height="130" weight="40" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizecim&" alt="hafizecim" />
 
 </div>
 
